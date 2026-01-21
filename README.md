@@ -1,7 +1,6 @@
 # Hi , I'm Ika Diana Zulvi
 
-I’m a **Quality Assurance (QA) Engineer** with over **2 years of hands-on experience** ensuring software quality across web applications, APIs, and internal systems.  
-I enjoy working at the intersection of **detail, logic, and collaboration**—making sure what’s built actually works as intended before it reaches users.
+I’m a **Quality Assurance (QA) Engineer** with over **2 years of hands-on experience** ensuring software quality across web applications, APIs, and internal systems. I enjoy working at the intersection of **detail, logic, and collaboration**—making sure what’s built actually works as intended before it reaches users.
 
 My strength lies in understanding requirements, breaking them down into clear test scenarios, and communicating issues effectively with developers and stakeholders.
 
@@ -13,36 +12,34 @@ My strength lies in understanding requirements, breaking them down into clear te
   I design and execute structured test cases and scenarios based on business flows, edge cases, and technical requirements.
 
 - 🤖 **Test Automation**  
-  I build and maintain UI automation for critical flows using **Playwright** and **Katalon Studio**, focusing on stability and reusability rather than just coverage.
+  I build and maintain UI automation for critical flows using **Selenium** with **Robot Framework**, focusing on stability and reusability rather than just coverage.
 
 - 🐞 **Bug Tracking & Collaboration**  
-  I report clear, reproducible defects using **Mantis** and **Jira**, and work closely with developers to ensure issues are properly understood and resolved.
+  I report clear, reproducible defects using **Jira**, and work closely with developers to ensure issues are properly understood and resolved.
 
 - 🌐 **API Testing**  
   I validate backend behavior and integrations using **Postman**, including positive, negative, and boundary scenarios.
 
 - ⚡ **Performance Testing**  
-  I perform basic load and performance testing using **JMeter** and **K6** to help identify potential bottlenecks early.
-
-- 🔐 **Security Awareness Testing**  
-  I conduct basic security checks using **OWASP ZAP** and **Acunetix** to identify common vulnerabilities.
+  I perform basic load and performance testing using **JMeter** to help identify potential bottlenecks early.
 
 - 🔄 **Integration & UAT Support**  
   I support integration testing and actively assist during **User Acceptance Testing (UAT)** phases.
 
 - 📝 **QA Documentation**  
-  I create and maintain test plans, test cases, SOPs, and QA reports to keep testing transparent and traceable.
+  I create and maintain test plans, test cases, and QA reports to keep testing transparent and traceable.
 
 ---
 
 ## 🧰 Skills & Tools I Use
 
-### Automation, API & Testing
+### Automation & API Testing
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
+![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000?logo=robotframework&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-### Performance & Security
+### Performance
 ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat&logo=apachejmeter&logoColor=white)
-
 
 ### QA & Collaboration)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
