@@ -65,9 +65,8 @@ My strength lies in understanding requirements, breaking them down into clear te
 
 ## 🌐 Let’s Connect
 
-- 🌍 **Portfolio Website**:   
 - 💼 **LinkedIn**: https://linkedin.com/in/ikadianazulvi  
-- ✍️ **Medium**: 
+- ✍️ **Medium**: https://medium.com/@ikadianazulfi
 
 📍 Bandung, Indonesia  
 🟢 Open to opportunities — remote or onsite
